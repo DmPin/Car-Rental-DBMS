@@ -16,9 +16,9 @@ Car Rental Database Management System built with **Django** and **SQLite**. Samp
      ```
 
 2. **Open Project Folder:**  
-   ```bash
-   cd <path-to-project>/gui
-   ```
+  ```bash
+  cd <path-to-project>/gui
+  ```
    
 3. **Install Dependencies:**
   ```bash
